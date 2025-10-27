@@ -46,7 +46,7 @@ java BankAccountSimulation
 2. Add file to src folder
 3. Right-click → Run 'BankAccountSimulation.main()'
 
-## 📖 How to Use
+## How to Use
 
 ### Startup Screen
 
@@ -129,7 +129,7 @@ USER MENU - Riya Roy
 0. Exit
 ```
 
-## 💰 Banking Operations
+## Banking Operations
 
 ### 1. Check Balance
 
